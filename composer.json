@@ -1,0 +1,25 @@
+{
+    "name": "heiheidetou/frame",
+    "description": "houdunwang",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Li Bin",
+            "email": "379407391@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "filp/whoops": "^2.0@dev"
+    },
+    "autoload":{
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "houdunwang\\":"houdunwang\\",
+            "app\\":"app\\",
+            "system\\":"system\\"
+        }
+    }
+}
