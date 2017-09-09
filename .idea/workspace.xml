@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af1960b7-522b-49cb-826f-215b6d93846a" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/0907-frame.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/Entry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/view/entry/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdunwang/core/Boot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdunwang/core/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdunwang/model/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdunwang/model/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdunwang/view/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdunwang/view/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/view/message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/model/Article.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -216,12 +179,12 @@
       <workItem from="1504916301639" duration="6701000" />
       <workItem from="1504929642578" duration="792000" />
       <workItem from="1504942497269" duration="703000" />
-      <workItem from="1504943364870" duration="44000" />
+      <workItem from="1504943364870" duration="179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70463000" />
+    <option name="totallyTimeSpent" value="70598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
