@@ -51,6 +51,7 @@ class Base
         //printT($this->data);
         extract ($this -> data);
         include $this -> file;
+        // printT($this -> file);die;
         return '';
     }
 }

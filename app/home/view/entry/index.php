@@ -10,13 +10,13 @@
 </head>
 <body>
 <div class="jumbotron" style="text-align: center;background: #fff;margin-top: 150px">
-	<div class="container">
-		<h1>Congratuations!</h1>
-		<p>You have successfully created your frame application</p>
-		<p>
-			<a href="http://www.wubin.pro" class="btn btn-primary btn-lg">About Me</a>
-		</p>
-	</div>
+    <div class="container">
+        <h1>Congratuations!</h1>
+        <p>You have successfully created your frame application</p>
+        <p>
+            <a href="http://www.wubin.pro" class="btn btn-primary btn-lg">About Me</a>
+        </p>
+    </div>
 </div>
 <?php //echo $text;?>
 </body>
